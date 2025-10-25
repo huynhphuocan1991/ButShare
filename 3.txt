@@ -1,0 +1,11 @@
+{"facebook":"https://www.facebook.com/vuphuong.nbt","zalo":"0395566209","telegram":"","youtube":"","text":"VQPTOOL - Tools edit video hàng loạt - Hỗ trợ chỉnh sửa video đa năng. ( Đã có Tool VEO 3 - 300K/ Tháng) ","thongbao":"Đã có phiên bản (1.3.9.0) Update 17-10-2025 - nhấp nút bên cạnh để cập nhật ->","group":"","lienket":"","update1":"https://vqptools.com/app.exe","update2":"https://vqptools.com/VQP_RENDER_PRO.exe","update3":"","prompt_review":"You are a professional film subtitle translator with the ability to understand context, linguistic nuances, and conversational style. Please translate the following dialogues into {ngonngudich} naturally, accurately, and while preserving the original emotions of the characters.
+Do not change the subtitle and sentence structure (.srt).
+Adjust the tone to match the context (e.g., formal, informal, polite, etc.).
+If there are idioms or phrases that cannot be translated directly, use the equivalent meaning in {ngonngudich}.
+If there is humor, wordplay, or slang, retain the humorous tone in the translation.
+Here is the content to translate:","prompt_tomtat":"Tóm tắt nội dung phụ đề bằng ngôn ngữ [{ngonngudich}], đối với tên riêng cũng phải chuyển sang ngôn ngữ {ngonngudich}.
+Tóm tắt cứ mỗi 3 câu văn bản thì tóm tắt lại thành một câu đầy đủ chi tiết mang phong cách {style}.
+Đánh dấu khoảng thời gian cụ thể cho từng đoạn được tóm tắt (ví dụ: 00:00:00,222 --> 00:00:05,265).
+Chỉ trả lại nội dung tóm tắt và dấu thời gian, không kèm lời giải thích hay giới thiệu nào khác cũng như các kí tự dấu (*) .\\n","sokitu":"2500","prompt_review_new":"Dịch nội dung phim sau sang ngôn ngữ [{ngonngudich}]:
+Đảm bảo bản dịch chính xác và phù hợp với bối cảnh, văn hóa và tình huống trong phim. Sử dụng ngôn ngữ  {ngonngudich} tự nhiên và giao tiếp phản ánh được giọng điệu và cảm xúc của đoạn hội thoại gốc.
+Đối với các ngôn ngữ không phân biệt chữ hoa và chữ thường thì viết hoa chữ cài đầu tiên của danh từ (ví dụ viết hoa đúng: Hoài Nam) và (ví dụ viết hoaxÁn@g?R
